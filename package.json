@@ -1,0 +1,27 @@
+{
+  "name": "web-animation-player",
+  "version": "1.0.0",
+  "description": "App to play with modern web motion graphics based on the Lottie technology. ",
+  "main": "./src/index.js",
+  "scripts": {
+	"start": "webpack-dev-server",
+	"build": "webpack --mode production"
+  },
+  "author": "Artemy",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.12.0",
+    "preact": "^10.0.1",
+    "preact-compat": "^3.19.0",
+    "preact-render-to-string": "^5.0.7",
+    "sass-loader": "^8.0.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.8.2"
+  }
+}
