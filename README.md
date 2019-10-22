@@ -1,4 +1,5 @@
 # Web animation player
+![Lottie files. Export After Effects animation to a website](https://svgsprite.com/public/images/lottie-player/lottie-player-online-with-demo-example.jpg)
 Test your animation files created in After Effects or run a demo example included to the app.
 
 #### Features
@@ -32,7 +33,7 @@ npm run build
 Online version: https://svgsprite.com/tools/lottie-player/
 
 
-#### Addtional info
+#### What's next?
 Feel free to request new features.\
 This project is open to new contributors.
 
